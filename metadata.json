@@ -1,0 +1,6 @@
+{
+  "name": "Gesture OS AI",
+  "description": "An AI-native browser desktop shell with draggable windows, three window modes, workspaces, tiling, notes, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
